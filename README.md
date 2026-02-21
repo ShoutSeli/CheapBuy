@@ -1,2 +1,2 @@
 # CheapBuy
-A frontend e-commerce website
+A landing page
